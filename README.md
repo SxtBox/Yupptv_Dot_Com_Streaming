@@ -15,3 +15,5 @@ Yupptv APIS
     XTREAM CODES: FINISHED AND WORK PREFECT
     RAW: THIS PART PRINT RAW STRING
 --------------------------------------------------------------
+
+Thanks To Muhammad Abbasi That Reporting Some Bugs
