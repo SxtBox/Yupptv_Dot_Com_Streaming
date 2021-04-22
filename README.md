@@ -9,12 +9,12 @@ NOTE FOR ALL
 Yupptv APIS
 --------------------------------------------------------------
     V1.0
-    DEMO: https://paidcodes.albdroid.al/Yupp_TV_APIS/V1_0/
+    DEMO: https://paidcodes.albdroid.al/Yupp_TV_APIS/old/
     DO NOT SUPPORT THIS VERSION, MANY BUGS IN REGEX
 --------------------------------------------------------------
 
-    V1.1
-    DEMO: https://paidcodes.albdroid.al/Yupp_TV_APIS/V1_1/
+    Actual Version V1.2
+    DEMO: https://paidcodes.albdroid.al/Yupp_TV_APIS/
     CREATED NEW CODE FROM A TO Z
     SUPPORT CURL WITH FUNCTIONS
     SMART TV: (IT'S NOT FINISHED YET)
@@ -22,6 +22,7 @@ Yupptv APIS
     KODI: FINISHED AND WORK PREFECT
     XTREAM CODES: FINISHED AND WORK PREFECT
     RAW: THIS PART PRINT RAW STRING
+    Clappr Player: Play on Your Own Player (Requested by Client)
 --------------------------------------------------------------
 
 Thanks To Muhammad Abbasi That Reporting Some Bugs
