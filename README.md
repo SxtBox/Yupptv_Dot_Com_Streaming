@@ -13,8 +13,8 @@ Yupptv APIS
     DEMO: https://paidcodes.albdroid.al/Yupp_TV_APIS/
     SMART TV: (IT'S NOT FINISHED YET)
     VLC: M3U Player
-    KODI: Kodi Structur
-    XTREAM CODES: Streaming On xt Panel
-    RAW: PRINT RAW STRING
+    KODI: Kodi M3U
+    Xtream Codes: Streaming On xt Panel
+    RAW: Printing Code as Raw
     Clappr Player: Play on Your Own Player
 --------------------------------------------------------------
