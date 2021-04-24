@@ -11,14 +11,10 @@ Yupptv APIS
 
     Actual Version V1.2
     DEMO: https://paidcodes.albdroid.al/Yupp_TV_APIS/
-    CREATED NEW CODE FROM A TO Z
-    SUPPORT CURL WITH FUNCTIONS
     SMART TV: (IT'S NOT FINISHED YET)
-    VLC: FINISHED AND WORK PREFECT
-    KODI: FINISHED AND WORK PREFECT
-    XTREAM CODES: FINISHED AND WORK PREFECT
-    RAW: THIS PART PRINT RAW STRING
-    Clappr Player: Play on Your Own Player (Requested by Client)
+    VLC: M3U Player
+    KODI: Kodi Structur
+    XTREAM CODES: Streaming On xt Panel
+    RAW: PRINT RAW STRING
+    Clappr Player: Play on Your Own Player
 --------------------------------------------------------------
-
-Thanks To Muhammad Abbasi That Reporting Some Bugs
