@@ -8,9 +8,6 @@ NOTE FOR ALL
 --------------------------------------------------------------
 Yupptv APIS
 --------------------------------------------------------------
-    V1.0
-    DEMO: https://paidcodes.albdroid.al/Yupp_TV_APIS/old/
-    DO NOT SUPPORT THIS VERSION, MANY BUGS IN REGEX
 --------------------------------------------------------------
 
     Actual Version V1.2
